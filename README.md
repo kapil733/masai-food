@@ -2,7 +2,11 @@
 
 ![image](https://github.com/kapil733/masai-food/assets/155940732/d3239fb1-714c-475d-ae16-6dc39cfc9e9b)
 
-Title: Masai food, Bengluru
+*Title*: Masai food, Bengluru
+
+
+
+
 overview
 This project aims to analyze and extract valuable insights from the restaurant data of Bengaluru. These insights will help clients make informed decisions on key aspects to consider when opening a new restaurant in Bengaluru. The project focuses on determining the type of restaurant to open, identifying the best suitable location, pricing items on the menu, and selecting the types of cuisine to offer.
 
