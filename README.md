@@ -1,6 +1,7 @@
 # masai-food
 
-![images](https://github.com/kapil733/masai-food/assets/155940732/1cd06f46-a9ca-416f-9016-d803ffa2714b)
+![images]<https://github.com/kapil733/masai-food/assets/155940732/1cd06f46-a9ca-416f-9016-d803ffa2714b width="400" height="790">
+
 
 
 
