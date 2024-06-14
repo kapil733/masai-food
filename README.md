@@ -1,6 +1,7 @@
 # masai-food
 
-![image](https://github.com/kapil733/masai-food/assets/155940732/d3239fb1-714c-475d-ae16-6dc39cfc9e9b)
+![images](https://github.com/kapil733/masai-food/assets/155940732/78cd4310-d6c5-4778-b573-829dcf6dd3da)
+
 
 **Title**: Masai food, Bengluru
 
