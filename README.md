@@ -26,12 +26,7 @@ NumPy
 
 **Methodology** 🛠️
 
-
-
-
-methodology
-
-1) getting Data: first we request to Zomato server to allow us for data scraping using class request.get() of requests package. we install requests package using pip install requests and than passing request using request.get(url of zomato). after getting a response code 200 we are able to do scraping.
+1) Getting Data: first we request to Zomato server to allow us for data scraping using class request.get() of requests package. we install requests package using pip install requests and than passing request using request.get(url of zomato). after getting a response code 200 we are able to do scraping.
 
 2) Web scrapping: after getting permission the process of web scrapping is done with the help of BeautifulSoup and Selenium.using different tags of HTML we fetch the text part and store in a dictionary. after successfully storing the data in dictionary we convert the dictionary into a DataFrame with the help of padas library.
 
@@ -40,7 +35,7 @@ methodology
 4) data visualization: Matplotlib and seaborn libraries are used for visualization purposes.
 
 
-key findings
+##key findings
 
 
 
