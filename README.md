@@ -2,7 +2,7 @@
 
 ![image](https://github.com/kapil733/masai-food/assets/155940732/d3239fb1-714c-475d-ae16-6dc39cfc9e9b)
 
-*Title*: Masai food, Bengluru
+**Title**: Masai food, Bengluru
 
 
 
