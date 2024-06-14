@@ -7,7 +7,7 @@
 
 
 
-###**overview**
+### **overview**
 This project aims to analyze and extract valuable insights from the restaurant data of Bengaluru. These insights will help clients make informed decisions on key aspects to consider when opening a new restaurant in Bengaluru. The project focuses on determining the type of restaurant to open, identifying the best suitable location, pricing items on the menu, and selecting the types of cuisine to offer.
 
 Objectives
@@ -35,7 +35,7 @@ NumPy
 4) data visualization: Matplotlib and seaborn libraries are used for visualization purposes.
 
 
-##key findings
+## key findings
 
 
 
