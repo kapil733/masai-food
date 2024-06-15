@@ -157,3 +157,10 @@ There are several limitations and challenges that arised during the project. Som
 
 ### **Conclusion**
 
+   (1) As per our analysis, if the person wants to open a remote kitchen in Bangalore he/she should prefer opening it in Shanti Nagar or Basavanagudi, since the place is having less no 
+       of restaurant which reduces the competition and it has some of the expensive restaurants in the Banglore, hence the person can deliver food at lower price which reduces the 
+       competition even further.
+
+(2)    The second suggestion would be sell North Indian, South Indian cuisine as they are demanded the most by the customers and they can keep the price ranging from 300 - 400 Rs for 
+       Non vegetarian category and 200 - 300 Rs for vegetarian category.
+
