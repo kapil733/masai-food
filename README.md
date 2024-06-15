@@ -92,7 +92,14 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 ![Screenshot 2024-06-14 221220](https://github.com/kapil733/masai-food/assets/155940732/9853e8a5-e389-4d24-80b6-0561790ef4d1)
 
 
-![Screenshot (329) 1](https://github.com/kapil733/masai-food/assets/155940732/fee280d4-790c-4794-8b4f-8ae9cc5fa959) ![Screenshot (330) 2](https://github.com/kapil733/masai-food/assets/155940732/b044cf26-9ebb-4251-9ff2-8dd831270d42)
+![Screenshot (329) 1](https://github.com/kapil733/masai-food/assets/155940732/fee280d4-790c-4794-8b4f-8ae9cc5fa959)  
+
+
+
+
+
+
+![Screenshot (330) 2](https://github.com/kapil733/masai-food/assets/155940732/b044cf26-9ebb-4251-9ff2-8dd831270d42)
 
 
 
