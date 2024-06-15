@@ -78,6 +78,34 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 (7)  interesting insight from the data
 
 
+### **Quick Summary**
+1.Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
+
+**MainPage Scrapper**
+
+
+
+
+2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor , Excel and obtained a single table.
+
+# **Raw data**
+
+
+
+
+
+# **After Cleaning raw data  Cleaned Table and Joined Table**
+
+
+
+
+
+
+
+## **Final Chart Using Data Visualization (Matplotlib and seaborn libraries)**
+
+# (a)
+
 
 
 
@@ -91,13 +119,18 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 ### **Challenges Faced**
 There are several limitations and challenges that arised during the project. Some potential challenges include:
 
-Learning web scraping with different tools was challenging due to the diversity of tools, evolving website structures, anti-scraping measures, and the need for data cleaning and preprocessing.
-Dynamic page scrolling posed an additional challenge during the data scraping process, requiring specific techniques and tools to effectively capture and extract the desired information from web pages that load content dynamically as the user scrolls.
-Data quality and consistency were compromised in the scraped data from Zomato, with errors, missing values, and inconsistencies present, thereby impacting the integrity of the raw dataset.
+(1) Learning web scraping with different tools was challenging due to the diversity of tools, evolving website structures, anti-scraping measures, and the need for data cleaning and 
+    preprocessing.
+    
+(2) Dynamic page scrolling posed an additional challenge during the data scraping process, requiring specific techniques and tools to effectively capture and extract the desired 
+    information from web pages that load content dynamically as the user scrolls.
+    
+(3) Data quality and consistency were compromised in the scraped data from Zomato, with errors, missing values, and inconsistencies present, thereby impacting the integrity of the raw 
+    dataset.
 
 
 
 
 
-conclusion
+### **Conclusion**
 
