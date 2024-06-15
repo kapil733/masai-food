@@ -94,9 +94,11 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor , Excel and obtained a single table.
 
 # **Raw data**
+
+## Table 1 :
 ![Screenshot 2024-06-14 221220](https://github.com/kapil733/masai-food/assets/155940732/9853e8a5-e389-4d24-80b6-0561790ef4d1)
 
-
+## Table 2 :
 ![Screenshot (335)](https://github.com/kapil733/masai-food/assets/155940732/f535f482-6e5f-4385-863b-70bbdea62888)
 
 
