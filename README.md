@@ -94,7 +94,7 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 
 
 
-# **After Cleaning raw data  Cleaned Table and Joined Table**
+# **Cleaned Table and Joined Table(After Cleaning raw data)**
 
  ![Screenshot 2024-06-14 221019](https://github.com/kapil733/masai-food/assets/155940732/c872ebf8-23ca-4da7-afa8-e8265f7089a4)
 
