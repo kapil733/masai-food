@@ -19,7 +19,7 @@
 ### **overview**
 This project aims to analyze and extract valuable insights from the restaurant data of Bengaluru. These insights will help clients make informed decisions on key aspects to consider when opening a new restaurant in Bengaluru. The project focuses on determining the type of restaurant to open, identifying the best suitable location, pricing items on the menu, and selecting the types of cuisine to offer.
 
-*Objectives*
+### **Objectives**
 Determine the Optimal Type of Restaurant: Identify the most popular types of restaurants in Bengaluru and the preferences of local diners.
 Best Suitable Location: Analyze various locations in Bengaluru to find the areas with the highest potential for a new restaurant.
 Menu Pricing: Provide recommendations on the optimal pricing for menu items based on market trends and competitor analysis.
@@ -38,7 +38,7 @@ Pandas
 
 NumPy
 
-**Methodology** 🛠️
+### **Methodology** 🛠️
 
 1) Getting Data: first we request to Zomato server to allow us for data scraping using class request.get() of requests package. we install requests package using pip install requests and than passing request using request.get(url of zomato). after getting a response code 200 we are able to do scraping.
 
@@ -49,7 +49,7 @@ NumPy
 4) data visualization: Matplotlib and seaborn libraries are used for visualization purposes.
 
 
-## Content 📋
+###  Content 📋
 
 The Zomato dataset provides a unique opportunity to gain valuable insights into Bengaluru's vibrant restaurant scene. With over 12,000 restaurants serving diverse cuisines worldwide, Bengaluru is a dynamic culinary hub. This analysis aims to shed light on the factors influencing restaurant establishment and success, as well as the preferences of the city's residents.
 Bengaluru, known as the IT capital of India, witnesses a continuous influx of new restaurants to meet the growing demand for convenient dining options.
@@ -78,6 +78,22 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 (7)  interesting insight from the data
 
 
+
+
+
+
+
+
+
+
+
+
+### **Challenges Faced**
+There are several limitations and challenges that arised during the project. Some potential challenges include:
+
+Learning web scraping with different tools was challenging due to the diversity of tools, evolving website structures, anti-scraping measures, and the need for data cleaning and preprocessing.
+Dynamic page scrolling posed an additional challenge during the data scraping process, requiring specific techniques and tools to effectively capture and extract the desired information from web pages that load content dynamically as the user scrolls.
+Data quality and consistency were compromised in the scraped data from Zomato, with errors, missing values, and inconsistencies present, thereby impacting the integrity of the raw dataset.
 
 
 
