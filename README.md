@@ -26,7 +26,7 @@ Menu Pricing: Provide recommendations on the optimal pricing for menu items base
 Cuisine Selection: Identify the most popular cuisines in Bengaluru to curate a menu that caters to local tastes and preferences.
 
 
-### *Tool used**:
+### **Tool used**:
 
 Requests
 
