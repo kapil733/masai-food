@@ -82,6 +82,11 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
 1.Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
 
 **MainPage Scrapper**
+![Screenshot (333) 1](https://github.com/kapil733/masai-food/assets/155940732/1c9e9a48-2b19-46b7-8ce7-22d230ae8e26)
+
+![Screenshot (334) 2](https://github.com/kapil733/masai-food/assets/155940732/928cf5ba-97b9-41a2-a1b0-1f76c0c495b5)
+
+
 
 
 
