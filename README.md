@@ -121,24 +121,24 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
  (a) Count of resurant by Area
 
  
-      ![Screenshot 2024-06-15 094215](https://github.com/kapil733/masai-food/assets/155940732/22d7df44-9fbc-4571-bd00-07658de9436e)
+     ![Screenshot 2024-06-15 094215](https://github.com/kapil733/masai-food/assets/155940732/22d7df44-9fbc-4571-bd00-07658de9436e)
 
 
   (b) Rating Category Distribution
 
   
-       ![Screenshot (328)](https://github.com/kapil733/masai-food/assets/155940732/ad467ac8-932c-4fb3-ac8e-3856f7e9ee0b)
+   ![Screenshot (328)](https://github.com/kapil733/masai-food/assets/155940732/ad467ac8-932c-4fb3-ac8e-3856f7e9ee0b)
 
    (c) price range by cuisine
 
    
-       ![Screenshot (327)](https://github.com/kapil733/masai-food/assets/155940732/7888327a-8c09-48ba-b615-db1e78bb5ba1)
+   ![Screenshot (327)](https://github.com/kapil733/masai-food/assets/155940732/7888327a-8c09-48ba-b615-db1e78bb5ba1)
 
 
     (d) Rating category by review Count  
 
     
-         ![Screenshot (326)](https://github.com/kapil733/masai-food/assets/155940732/02a1eae3-3e57-4804-94cf-28d26b9c6e85)
+   ![Screenshot (326)](https://github.com/kapil733/masai-food/assets/155940732/02a1eae3-3e57-4804-94cf-28d26b9c6e85)
 
 
 
