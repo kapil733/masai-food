@@ -26,11 +26,16 @@ Menu Pricing: Provide recommendations on the optimal pricing for menu items base
 Cuisine Selection: Identify the most popular cuisines in Bengaluru to curate a menu that caters to local tastes and preferences.
 
 
-**tool used**:
+### **tool used**:
+
 Requests
+
 Selenium and bs4(BeautifulSoup)
+
 Matplotlib and seaborn
+
 Pandas
+
 NumPy
 
 **Methodology** 🛠️
