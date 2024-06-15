@@ -118,7 +118,7 @@ Given the overwhelming demand for restaurants, it becomes crucial to examine the
  (a) Count of resurant by Area
 
  
-     ![Screenshot 2024-06-15 094215](https://github.com/kapil733/masai-food/assets/155940732/22d7df44-9fbc-4571-bd00-07658de9436e)
+  ![Screenshot 2024-06-15 094215](https://github.com/kapil733/masai-food/assets/155940732/22d7df44-9fbc-4571-bd00-07658de9436e)
 
 
   (b) Rating Category Distribution
