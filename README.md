@@ -1,4 +1,4 @@
-# masai-food
+# Masai_Food
 
 
 ![maxresdefault](https://github.com/kapil733/masai-food/assets/155940732/2e47d43d-407d-489c-9067-773e1ea643ac)
