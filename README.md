@@ -12,8 +12,7 @@
 
 
 
-**DASHBOARD**:
-![Zomato final dashboard](https://github.com/kapil733/masai-food/assets/155940732/dead9b9d-9947-4fae-a660-4a66cb7f19c0)
+
 
 
 https://public.tableau.com/shared/RZW8KH32Z?:display_count=n&:origin=viz_share_link
@@ -173,6 +172,9 @@ There are several limitations and challenges that arised during the project. Som
 
 
 
+**DASHBOARD**:
+
+![Zomato final dashboard](https://github.com/kapil733/masai-food/assets/155940732/dead9b9d-9947-4fae-a660-4a66cb7f19c0)
 
 
 ### **Conclusion**
