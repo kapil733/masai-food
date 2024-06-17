@@ -13,7 +13,11 @@
 
 **Title**: Masai food, Bengluru
 
-**DASHBOARD**:https://public.tableau.com/shared/RZW8KH32Z?:display_count=n&:origin=viz_share_link
+**DASHBOARD**:
+![Zomato final dashboard](https://github.com/kapil733/masai-food/assets/155940732/dead9b9d-9947-4fae-a660-4a66cb7f19c0)
+
+
+https://public.tableau.com/shared/RZW8KH32Z?:display_count=n&:origin=viz_share_link
 
 
 ### **overview**
