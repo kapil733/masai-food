@@ -11,7 +11,6 @@
 
 
 
-**Title**: Masai food, Bengluru
 
 **DASHBOARD**:
 ![Zomato final dashboard](https://github.com/kapil733/masai-food/assets/155940732/dead9b9d-9947-4fae-a660-4a66cb7f19c0)
@@ -19,6 +18,8 @@
 
 https://public.tableau.com/shared/RZW8KH32Z?:display_count=n&:origin=viz_share_link
 
+
+# **Title**: Masai food, Bengluru
 
 ### **overview**
 This project aims to analyze and extract valuable insights from the restaurant data of Bengaluru. These insights will help clients make informed decisions on key aspects to consider when opening a new restaurant in Bengaluru. The project focuses on determining the type of restaurant to open, identifying the best suitable location, pricing items on the menu, and selecting the types of cuisine to offer.
